@@ -1,6 +1,6 @@
 # Beatport
 
-Elixir wrapper for Beatport API
+Elixir wrapper for Beatport API.
 
 ## Installation
 
